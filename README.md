@@ -9,6 +9,7 @@
 - Je suis en contact avec AIV pour me synchroniser avec eux et tester à la fin
 
 ** EN CAS DE PROBLEME, JM PREND LES DECISIONS (avec Zak et Isma)
+Moi je ne serais pas à la maison toute la journée mais tjs up sur Team et je prends mon laptop avec moi.
 
 # Steps
 - [X] 8H30 : Isma coupe les cron
@@ -32,3 +33,6 @@ A FAIRE APRES
 - remettre crontab pritngen
 - relancer consumers
 - -----------------------------
+=======
+- [X] 10h00 : Zak commence es mise à jour
+- ......
