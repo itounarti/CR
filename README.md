@@ -27,10 +27,15 @@ Moi je ne serais pas à la maison toute la journée mais tjs up sur Team et je p
 - [X] désactiver crontab printgen 
 - [X] désactiver crontab affligem
 
+=======
+## A FAIRE AVANT MAJ ##
+- [X] désactivation crontab api
+- [X] désactiver crontab DOCDROP
+- [X] désactiver crontab printgen
 - [ ] kill consumers avant MAJ
 - [ ] commencer MAJ par RABBITMQ afin de le relancer au plus vite et ne pas perdre de messages
 
-##A FAIRE APRES##
+## A FAIRE APRES ##
 - [ ] remettre crontab API
 - [ ] remettre crontab DOCDROP
 - [ ] remettre crontab pritngen
