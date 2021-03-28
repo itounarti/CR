@@ -15,3 +15,20 @@
 - [X] 8h30 : JMS contact AIV pour couper le flux
 - [X] 9h00 : Juju check les PP
 - 
+
+# COTE FD
+-----------------------
+A FAIRE AVANT MAJ
+- désactivation crontab api (FAIT)
+- désactiver crontab DOCDROP (FAIT)
+- désactiver crontab printgen (FAIT)
+
+- kill consumers avant MAJ
+- commencer MAJ par RABBITMQ afin de le relancer au plus vite et ne pas perdre de messages
+
+A FAIRE APRES
+- remettre crontab API
+- remettre crontab DOCDROP
+- remettre crontab pritngen
+- relancer consumers
+- -----------------------------
