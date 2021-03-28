@@ -21,6 +21,13 @@ Moi je ne serais pas à la maison toute la journée mais tjs up sur Team et je p
 
 # COTE FD
 -----------------------
+##A FAIRE AVANT MAJ##
+- [X] désactivation crontab api 
+- [X] désactiver crontab DOCDROP 
+- [X] désactiver crontab printgen 
+- [X] désactiver crontab affligem
+
+=======
 ## A FAIRE AVANT MAJ ##
 - [X] désactivation crontab api
 - [X] désactiver crontab DOCDROP
@@ -32,5 +39,6 @@ Moi je ne serais pas à la maison toute la journée mais tjs up sur Team et je p
 - [ ] remettre crontab API
 - [ ] remettre crontab DOCDROP
 - [ ] remettre crontab pritngen
+- [ ] remettre crontab affligem
 - [ ] relancer consumers
 
