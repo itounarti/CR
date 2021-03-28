@@ -26,7 +26,7 @@ Moi je ne serais pas à la maison toute la journée mais tjs up sur Team et je p
 - [X] désactiver crontab DOCDROP 
 - [X] désactiver crontab printgen 
 - [X] désactiver crontab affligem
-- [ ] kill consumers avant MAJ
+- [X] kill consumers avant MAJ
 - [ ] commencer MAJ par RABBITMQ afin de le relancer au plus vite et ne pas perdre de messages
 
 ## A FAIRE APRES ##
